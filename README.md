@@ -45,9 +45,6 @@ Google Apps Script（応答）
 ↓
 LINE Reply API
 
-yaml
-コードをコピーする
-
 ---
 
 ## 🧩 公開範囲について
